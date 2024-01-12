@@ -1,4 +1,3 @@
-
 import tkinter as tk
 import pyodbc
 import pandas as pd
