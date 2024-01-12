@@ -61,7 +61,7 @@ print(dataframe)
 
 # Close the database connection
 # cursor.close()
-=======
+
 import pyodbc
 import pandas as pd
 import datetime
@@ -124,5 +124,4 @@ print(dataframe)
 
 # Close the database connection
 # cursor.close()
->>>>>>> origin/main
 # conn.close()

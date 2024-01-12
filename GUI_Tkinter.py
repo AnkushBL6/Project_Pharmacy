@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import tkinter as tk
 import pyodbc
 import pandas as pd
@@ -96,7 +96,7 @@ def save_client():
 save_btn = tk.Button(root, text="Save", command=save_client)
 save_btn.grid(row=6, column=1)
 
-=======
+
 import tkinter as tk
 import pyodbc
 import pandas as pd
@@ -194,5 +194,4 @@ def save_client():
 save_btn = tk.Button(root, text="Save", command=save_client)
 save_btn.grid(row=6, column=1)
 
->>>>>>> origin/main
 root.mainloop()
