@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pyodbc
 import pandas as pd
 import datetime
@@ -125,3 +124,4 @@ print(dataframe)
 # Close the database connection
 # cursor.close()
 # conn.close()
+# Adding this line to github
