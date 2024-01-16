@@ -2,7 +2,7 @@ import pyodbc
 import pandas as pd
 import datetime
 
-# Connection string (replace placeholders with your actual details)
+# Connection string 
 conn_string = ("Driver={ODBC Driver 17 for SQL Server};"
              "Server=AnkushBL\SQLEXPRESS;"
              "Database=Inventory;"
